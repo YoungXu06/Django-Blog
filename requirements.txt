@@ -2,3 +2,6 @@ django==1.10.6
 Markdown==2.6.8
 Pygments==2.2.0
 pytz==2016.10
+jieba==0.39
+haystack==0.42
+Whoosh==2.7.4
